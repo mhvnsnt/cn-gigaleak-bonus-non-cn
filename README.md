@@ -32,5 +32,4 @@ into the usable .zip files.
 
 TV Gigaleak small wins (same repo): `garfield-model-sheets.zip` (14,210,001 bytes,
 single asset) and `LTS_MainModelPack_120909.pdf` (250,450,405 bytes,
-`LTS.MainModelPack.120909.pdf.part-0000` .. `part-0002` — note GitHub strips the
-underscore in asset names; check the release page for exact names).
+`LTS_MainModelPack_120909.pdf.part-0000` .. `part-0002`).
